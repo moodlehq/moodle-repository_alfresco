@@ -18,9 +18,9 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
  
-require_once __DIR__ . '/sdk/Service/Store.php';
-require_once __DIR__ . '/sdk/Service/Node.php';
-require_once __DIR__ . '/sdk/Service/WebService/WebServiceFactory.php';
+require_once __DIR__ . '/Store.php';
+require_once __DIR__ . '/Node.php';
+require_once __DIR__ . '/WebService/WebServiceFactory.php';
 
 class Session extends BaseObject
 {

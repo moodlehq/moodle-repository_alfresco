@@ -18,7 +18,7 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
  
- require_once __DIR__ . "/sdk/Service/Logger/LoggerConfig.php";
+ require_once __DIR__ . "/LoggerConfig.php";
  
  class Logger
  { 	

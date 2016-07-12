@@ -19,7 +19,7 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
 
-require_once __DIR__ . '/sdk/Service/WebService/AlfrescoWebService.php';
+require_once __DIR__ . '/AlfrescoWebService.php';
 
 class WebServiceFactory
 {

@@ -18,13 +18,13 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
 
-require_once __DIR__ . '/sdk/Service/Store.php';
-require_once __DIR__ . '/sdk/Service/ChildAssociation.php';
-require_once __DIR__ . '/sdk/Service/Association.php';
-require_once __DIR__ . '/sdk/Service/NamespaceMap.php';
-require_once __DIR__ . '/sdk/Service/ContentData.php';
-require_once __DIR__ . '/sdk/Service/VersionHistory.php';
-require_once __DIR__ . '/sdk/Service/Version.php';
+require_once __DIR__ . '/Store.php';
+require_once __DIR__ . '/ChildAssociation.php';
+require_once __DIR__ . '/Association.php';
+require_once __DIR__ . '/NamespaceMap.php';
+require_once __DIR__ . '/ContentData.php';
+require_once __DIR__ . '/VersionHistory.php';
+require_once __DIR__ . '/Version.php';
 
 class Node extends BaseObject 
 {

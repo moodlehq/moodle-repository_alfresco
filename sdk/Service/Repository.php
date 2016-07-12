@@ -18,8 +18,8 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
 
-require_once __DIR__ . '/sdk/Service/WebService/WebServiceFactory.php';
-require_once __DIR__ . '/sdk/Service/BaseObject.php';
+require_once __DIR__ . '/WebService/WebServiceFactory.php';
+require_once __DIR__ . '/BaseObject.php';
 
 if (isset($_SESSION) == false)
 {

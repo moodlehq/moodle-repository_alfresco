@@ -18,8 +18,8 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
  
- require_once(__DIR__ . "/sdk/Service/Repository.php");
- require_once(__DIR__ . "/sdk/Service/Session.php");
+ require_once(__DIR__ . "/Repository.php");
+ require_once(__DIR__ . "/Session.php");
  
  /**
   * Uploads a file into content store and returns the content data string which

@@ -18,7 +18,7 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
 
-require_once(__DIR__ . "/sdk/Service/Functions.php");
+require_once(__DIR__ . "/Functions.php");
 
 class ContentData extends BaseObject
 {	

@@ -18,8 +18,8 @@
  * along with Alfresco. If not, see <http://www.gnu.org/licenses/>.
  */
  
-require_once __DIR__ . '/sdk/Service/BaseObject.php';
-require_once __DIR__ . '/sdk/Service/Node.php';
+require_once __DIR__ . '/BaseObject.php';
+require_once __DIR__ . '/Node.php';
 
 class Store extends BaseObject
 {
